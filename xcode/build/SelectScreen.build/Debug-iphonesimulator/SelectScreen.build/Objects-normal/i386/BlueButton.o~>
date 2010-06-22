@@ -1,0 +1,6 @@
+/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/BlueButton.m: In function '-[BlueButton init]':
+/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/BlueButton.m:29: warning: 'setTitleShadowOffset:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIButton.h:106)
+/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/BlueButton.m:30: warning: 'setFont:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIButton.h:106)
+/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/BlueButton.m: At top level:
+/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/BlueButton.m:36: warning: property 'landscape' requires method '-landscape' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/BlueButton.m:36: warning: property 'landscape' requires the method 'setLandscape:' to be defined - use @synthesize, @dynamic or provide a method implementation

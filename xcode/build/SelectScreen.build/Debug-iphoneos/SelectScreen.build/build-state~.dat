@@ -1,0 +1,1378 @@
+TSelectScreen
+v7
+r0
+t297709257.427830
+cCheck dependencies
+cCpResource build/Debug-iphoneos/SelectScreen.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/Info.plist SelectScreen-Info.plist
+cCompileXIB /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/MainWindow.xib
+cCopyPNGFile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/Default.png Default.png
+cCopyPNGFile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/Splash.png Splash.png
+cCopyPNGFile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/Splash2.png Splash2.png
+cCpResource build/Debug-iphoneos/SelectScreen.app/blast.aif blast.aif
+cCompileXIB /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/MainMenuTitleView.xib
+cCompileXIB /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/MainMenuTitleView.xib
+cCopyPNGFile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/MainMenuTitleView.png MainMenuTitleView.png
+cCopyPNGFile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/HighScores.png HighScores.png
+cCopyPNGFile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/Instructions.png Instructions.png
+cCopyPNGFile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/StartGame.png StartGame.png
+cCompileXIB /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Settings.xib
+cCopyPlistFile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/SettingsMenu.plist Classes/SettingsMenu.plist
+cCompileXIB /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/ColorSetting.xib
+cCompileXIB /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/DifficultySetting.xib
+cCpResource build/Debug-iphoneos/SelectScreen.app/stripedbg.jpg Classes/stripedbg.jpg
+cCopyPNGFile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/BlueImage.png Classes/BlueImage.png
+cCopyPNGFile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/RedImage.png Classes/RedImage.png
+cCopyPNGFile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/YellowImage.png Classes/YellowImage.png
+cCompileXIB /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/HighScores.xib
+cCompileXIB /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Instructions.xib
+cCompileXIB /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/CustomEditableTableCell.xib
+cCompileXIB /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/Game.xib
+cProcessPCH /var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-fgvortdetohpcvemzxaxabjfsyky/SelectScreen_Prefix.pch.gch SelectScreen_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-dfnmlwjhmdjlbhfaaladbhwzddcs/SelectScreen_Prefix.pch.gch SelectScreen_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/main.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/AppDelegate.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/AppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/SplashViewController.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/../SplashViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/MainViewController.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/MainViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/SoundPlayer.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/SoundPlayer.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/MainMenuVC.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/MainMenuVC.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/SettingsVC.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/SettingsVC.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/ColorSettingVC.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/ColorSettingVC.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/DifficultySettingVC.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/DifficultySettingVC.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/GameVC.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/GameVC.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/CustomEditableTableCell.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/CustomEditableTableCell.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/SettingsView.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/SettingsView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/GridScreen.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/GridScreen.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/Player.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Player.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/main.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/SelectScreen normal armv6
+cCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/AppDelegate.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/AppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/SplashViewController.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/../SplashViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/MainViewController.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/MainViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/SoundPlayer.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/SoundPlayer.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/MainMenuVC.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/MainMenuVC.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/SettingsVC.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/SettingsVC.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/ColorSettingVC.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/ColorSettingVC.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/DifficultySettingVC.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/DifficultySettingVC.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/GameVC.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/GameVC.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/CustomEditableTableCell.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/CustomEditableTableCell.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/SettingsView.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/SettingsView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/GridScreen.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/GridScreen.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/Player.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Player.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/SelectScreen normal armv7
+cCreateUniversalBinary /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/SelectScreen normal "armv6 armv7"
+cGenerateDSYMFile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app.dSYM /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/SelectScreen
+cProcessProductPackaging "/Users/colin/Library/MobileDevice/Provisioning Profiles/0E24A994-C325-4EE9-AD39-4727CF099100.mobileprovision" /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/embedded.mobileprovision
+cTouch /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen.xcent
+cCodeSign /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004BDB847E0000000000000110
+t1272677502
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
+c000000004BD66CEB00000000000001A7
+t1272343787
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+c000000004BD66CEB00000000000001E5
+t1272343787
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004BD90939000000000017E410
+t1272514873
+s1565712
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004BD9091E000000000000065C
+t1272514846
+s1628
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004BD7DCF500000000003B2090
+t1272438005
+s3874960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004BD7DCAE0000000000000A23
+t1272437934
+s2595
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD7DDD40000000000546850
+t1272438228
+s5531728
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD7DDFB000000000062FD30
+t1272438267
+s6487344
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD7DDD60000000000001466
+t1272438230
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BDB68AD00000000000009CD
+t1272670381
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BDB69AE0000000002D460E0
+t1272670638
+s47472864
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/../SplashViewController.m
+c000000004C0E6A36000000000000068B
+t1276013110
+s1675
+i"SplashViewController.h"
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/AppDelegate.h
+c000000004BE075CC00000000000001FA
+t1273001420
+s506
+i<UIKit/UIKit.h>
+i"MainViewController.h"
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/AppDelegate.m
+c000000004BFEE4730000000000000334
+t1274995827
+s820
+i"AppDelegate.h"
+i"GameVC.h"
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/BlueImage.png
+c000000004BE8CE1E000000000000016A
+t1273548318
+s362
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/ColorSetting.xib
+c000000004BE8D5DD0000000000004AA3
+t1273550301
+s19107
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/ColorSettingVC.h
+c000000004BE8D63D000000000000014F
+t1273550397
+s335
+i<UIKit/UIKit.h>
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/ColorSettingVC.m
+c000000004BE8DE89000000000000088F
+t1273552521
+s2191
+i"ColorSettingVC.h"
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/CustomEditableTableCell.h
+c000000004BFEE88800000000000001DC
+t1274996872
+s476
+i<UIKit/UIKit.h>
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/CustomEditableTableCell.m
+c000000004BFEE8B0000000000000028F
+t1274996912
+s655
+i"CustomEditableTableCell.h"
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/CustomEditableTableCell.xib
+c000000004BF5A93300000000000059BE
+t1274390835
+s22974
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/DifficultySetting.xib
+c000000004BE8CF0200000000000054C6
+t1273548546
+s21702
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/DifficultySettingVC.h
+c000000004BE8D27E00000000000001FE
+t1273549438
+s510
+i<UIKit/UIKit.h>
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/DifficultySettingVC.m
+c000000004BE8DA180000000000000669
+t1273551384
+s1641
+i"DifficultySettingVC.h"
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/Game.xib
+c000000004BFEE4BE0000000000003AEE
+t1274995902
+s15086
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/MainMenuVC.h
+c000000004BE8E1FB0000000000000241
+t1273553403
+s577
+i<UIKit/UIKit.h>
+i"GameVC.h"
+i"MainMenuVC.h"
+i"SettingsVC.h"
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/MainMenuVC.m
+c000000004C0E692200000000000009EB
+t1276012834
+s2539
+i"MainMenuVC.h"
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/MainViewController.h
+c000000004BE32F5E0000000000000309
+t1273179998
+s777
+i<UIKit/UIKit.h>
+i"SoundPlayer.h"
+i"SettingsVC.h"
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/MainViewController.m
+c000000004C0E6AEB0000000000000A60
+t1276013291
+s2656
+i"MainViewController.h"
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/RedImage.png
+c000000004BE8CE030000000000000153
+t1273548291
+s339
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/SettingsMenu.plist
+c000000004BFEC6D800000000000003D9
+t1274988248
+s985
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/SettingsVC.h
+c000000004BF5A6A900000000000002EB
+t1274390185
+s747
+i<UIKit/UIKit.h>
+i"CustomEditableTableCell.h"
+i"ColorSettingVC.h"
+i"DifficultySettingVC.h"
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/SettingsVC.m
+c000000004BFF54300000000000001534
+t1275024432
+s5428
+i"SettingsVC.h"
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/SoundPlayer.h
+c000000004BE099850000000000000150
+t1273010565
+s336
+i<AudioToolbox/AudioToolbox.h>
+i<AVFoundation/AVFoundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/SoundPlayer.m
+c000000004BE099EA0000000000000390
+t1273010666
+s912
+i"SoundPlayer.h"
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/YellowImage.png
+c000000004BE8CE150000000000000168
+t1273548309
+s360
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/stripedbg.jpg
+c000000004BE8C1D80000000000005A99
+t1273545176
+s23193
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Default.png
+c000000004BE07950000000000001CC68
+t1273002320
+s117864
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/GameVC.h
+c000000004C0E662300000000000001D0
+t1276012067
+s464
+i<UIKit/UIKit.h>
+i"Player.h"
+i"GridScreen.h"
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/GameVC.m
+c000000004C0E74DF0000000000000B4C
+t1276015839
+s2892
+i"GameVC.h"
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/GridScreen.h
+c000000004BF5AAC80000000000000203
+t1274391240
+s515
+i<UIKit/UIKit.h>
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/GridScreen.m
+c000000004BFEE64900000000000002CA
+t1274996297
+s714
+i"GridScreen.h"
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/HighScores.png
+c000000004BE3289C0000000000000284
+t1273178268
+s644
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/HighScores.xib
+c000000004BE8E2B800000000000041F7
+t1273553592
+s16887
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Instructions.png
+c000000004BE328970000000000000312
+t1273178263
+s786
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Instructions.xib
+c000000004BE8E2DE000000000000403D
+t1273553630
+s16445
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/MainMenuTitleView.png
+c000000004BE31D000000000000000B2B
+t1273175296
+s2859
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/MainMenuTitleView.xib
+c000000004BE31AB5000000000000327D
+t1273174709
+s12925
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/MainWindow.xib
+c000000004C0E6AA200000000000089DB
+t1276013218
+s35291
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Player.h
+c000000004BFEC975000000000000017B
+t1274988917
+s379
+i<Foundation/Foundation.h>
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Player.m
+c000000004BFEE74B0000000000000360
+t1274996555
+s864
+i"Player.h"
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/SelectScreen_Prefix.pch
+c000000004BE06E1100000000000000C1
+t1272999441
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Settings.xib
+c000000004BF5A6E20000000000004FBF
+t1274390242
+s20415
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/SettingsView.h
+c000000004BF5A70700000000000000E5
+t1274390279
+s229
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/SettingsView.m
+c000000004BF5A755000000000000033C
+t1274390357
+s828
+i"SettingsView.h"
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Splash.png
+c000000004BE07908000000000001C780
+t1273002248
+s116608
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Splash2.png
+c000000004BE07B6E000000000001CB48
+t1273002862
+s117576
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/SplashViewController.h
+c000000004C0E67BD000000000000018B
+t1276012477
+s395
+i<UIKit/UIKit.h>
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/StartGame.png
+c000000004BE3290D0000000000000253
+t1273178381
+s595
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/blast.aif
+c000000004BE092AC000000000006BCA8
+t1273008812
+s441512
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app
+t1276016457
+s1054
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app.dSYM
+t1276016455
+s102
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/BlueImage.png
+t1276016447
+s371
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/ColorSetting.nib
+t1276016447
+s1181
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/CustomEditableTableCell.nib
+t1276016449
+s2577
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/Default.png
+t1276016441
+s136080
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/DifficultySetting.nib
+t1276016447
+s1512
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/Game.nib
+t1276016449
+s844
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/HighScores.nib
+t1276016448
+s1674
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/HighScores.png
+t1276016444
+s765
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/Info.plist
+t1276016439
+s737
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/Instructions.nib
+t1276016449
+s1156
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/Instructions.png
+t1276016444
+s867
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/MainMenuTitleView.nib
+t1276016445
+s945
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/MainMenuTitleView.png
+t1276016444
+s4131
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/MainWindow.nib
+t1276016444
+s2403
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/PkgInfo
+t1276016439
+s8
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/RedImage.png
+t1276016447
+s455
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/ResourceRules.plist
+t1276016439
+s485
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/SelectScreen
+t1276016455
+s133528
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/Settings.nib
+t1276016445
+s1340
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/SettingsMenu.plist
+t1276016446
+s373
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/Splash.png
+t1276016442
+s135948
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/Splash2.png
+t1276016442
+s135788
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/StartGame.png
+t1276016444
+s595
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/YellowImage.png
+t1276016447
+s428
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/blast.aif
+t1276016443
+s441512
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/embedded.mobileprovision
+t1276016455
+s7163
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/stripedbg.jpg
+t1276016447
+s23193
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/AppDelegate.o
+t1276016450
+s48488
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/ColorSettingVC.o
+t1276016451
+s46004
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/CustomEditableTableCell.o
+t1276016451
+s39692
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/DifficultySettingVC.o
+t1276016451
+s41972
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/GameVC.o
+t1276016451
+s41596
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/GridScreen.o
+t1276016451
+s38340
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/MainMenuVC.o
+t1276016451
+s49540
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/MainViewController.o
+t1276016450
+s47752
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/Player.o
+t1276016451
+s11304
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/SelectScreen
+t1276016453
+s63896
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/SelectScreen.LinkFileList
+c000000004C0E7737000000000000090C
+t1276016439
+s2316
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/SettingsVC.o
+t1276016451
+s62284
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/SettingsView.o
+t1276016451
+s37328
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/SoundPlayer.o
+t1276016451
+s13628
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/SplashViewController.o
+t1276016450
+s36956
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/main.o
+t1276016450
+s6500
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/AppDelegate.o
+t1276016453
+s48432
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/ColorSettingVC.o
+t1276016454
+s45828
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/CustomEditableTableCell.o
+t1276016454
+s39612
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/DifficultySettingVC.o
+t1276016454
+s41776
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/GameVC.o
+t1276016454
+s41352
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/GridScreen.o
+t1276016454
+s38224
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/MainMenuVC.o
+t1276016453
+s49268
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/MainViewController.o
+t1276016453
+s47520
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/Player.o
+t1276016454
+s11232
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/SelectScreen
+t1276016455
+s63896
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/SelectScreen.LinkFileList
+c000000004C0E7737000000000000090C
+t1276016439
+s2316
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/SettingsVC.o
+t1276016454
+s61920
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/SettingsView.o
+t1276016454
+s37336
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/SoundPlayer.o
+t1276016453
+s13528
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/SplashViewController.o
+t1276016453
+s36884
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/main.o
+t1276016453
+s6484
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen.xcent
+t1276016455
+s430
+
+N/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/main.m
+c000000004BE06E11000000000000016B
+t1272999441
+s363
+i<UIKit/UIKit.h>
+
+N/Users/colin/Library/MobileDevice/Provisioning Profiles/0E24A994-C325-4EE9-AD39-4727CF099100.mobileprovision
+c000000004BBE724A0000000000001BFB
+t1270772298
+s7163
+
+N/var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-dfnmlwjhmdjlbhfaaladbhwzddcs/SelectScreen_Prefix.pch.gch
+t1276012049
+s10286640
+
+N/var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-fgvortdetohpcvemzxaxabjfsyky/SelectScreen_Prefix.pch.gch
+t1276012048
+s9819696
+
+NSelectScreen-Info.plist
+c000000004BE0756200000000000003B4
+t1273001314
+s948
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies297709239#297709239#0(0"0(0#1#0"27866456492998768#0"0#
+
+CCodeSign /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app
+s297709255.563542
+e297709257.427711
+r1
+xCodeSign
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app
+lSLF07#2@46"CodeSign build/Debug-iphoneos/SelectScreen.app297709255#297709257#0(0"0(0#0#107"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app8606641248#796"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Colin Young (YTUK26W8N7)" --resource-rules=/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/ResourceRules.plist --entitlements /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen.xcent /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app0#
+
+CCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/AppDelegate.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/AppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297709250.030556
+e297709250.834834
+r1
+xCompileC
+xbuild/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/AppDelegate.o
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/AppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/AppDelegate.m297709250#297709250#0(0"0(0#0#91"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/AppDelegate.m8604242112#2187"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-generated-files.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-own-target-headers.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-all-target-headers.hmap -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-project-headers.hmap -F/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/include -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources/armv6 -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources -include /var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-fgvortdetohpcvemzxaxabjfsyky/SelectScreen_Prefix.pch -c /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/AppDelegate.m -o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/AppDelegate.o0#
+
+CCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/ColorSettingVC.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/ColorSettingVC.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297709251.099535
+e297709251.228960
+r1
+xCompileC
+xbuild/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/ColorSettingVC.o
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/ColorSettingVC.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/ColorSettingVC.m297709251#297709251#0(0"0(0#0#94"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/ColorSettingVC.m8599009152#2193"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-generated-files.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-own-target-headers.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-all-target-headers.hmap -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-project-headers.hmap -F/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/include -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources/armv6 -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources -include /var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-fgvortdetohpcvemzxaxabjfsyky/SelectScreen_Prefix.pch -c /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/ColorSettingVC.m -o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/ColorSettingVC.o0#
+
+CCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/CustomEditableTableCell.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/CustomEditableTableCell.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297709251.349405
+e297709251.507783
+r1
+xCompileC
+xbuild/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/CustomEditableTableCell.o
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/CustomEditableTableCell.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/CustomEditableTableCell.m297709251#297709251#0(0"0(0#0#103"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/CustomEditableTableCell.m8605392128#2211"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-generated-files.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-own-target-headers.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-all-target-headers.hmap -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-project-headers.hmap -F/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/include -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources/armv6 -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources -include /var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-fgvortdetohpcvemzxaxabjfsyky/SelectScreen_Prefix.pch -c /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/CustomEditableTableCell.m -o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/CustomEditableTableCell.o0#
+
+CCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/DifficultySettingVC.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/DifficultySettingVC.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297709251.229086
+e297709251.349282
+r1
+xCompileC
+xbuild/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/DifficultySettingVC.o
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/DifficultySettingVC.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/DifficultySettingVC.m297709251#297709251#0(0"0(0#0#99"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/DifficultySettingVC.m8604463616#2203"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-generated-files.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-own-target-headers.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-all-target-headers.hmap -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-project-headers.hmap -F/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/include -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources/armv6 -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources -include /var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-fgvortdetohpcvemzxaxabjfsyky/SelectScreen_Prefix.pch -c /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/DifficultySettingVC.m -o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/DifficultySettingVC.o0#
+
+CCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/GameVC.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/GameVC.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297709251.300986
+e297709251.452402
+r1
+xCompileC
+xbuild/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/GameVC.o
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/GameVC.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/GameVC.m297709251#297709251#0(0"0(0#0#78"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/GameVC.m8606930432#2169"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-generated-files.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-own-target-headers.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-all-target-headers.hmap -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-project-headers.hmap -F/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/include -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources/armv6 -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources -include /var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-fgvortdetohpcvemzxaxabjfsyky/SelectScreen_Prefix.pch -c /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/GameVC.m -o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/GameVC.o0#
+
+CCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/GridScreen.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/GridScreen.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297709251.507901
+e297709251.668051
+r1
+xCompileC
+xbuild/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/GridScreen.o
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/GridScreen.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/GridScreen.m297709251#297709251#0(0"0(0#0#82"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/GridScreen.m8606897920#2177"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-generated-files.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-own-target-headers.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-all-target-headers.hmap -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-project-headers.hmap -F/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/include -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources/armv6 -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources -include /var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-fgvortdetohpcvemzxaxabjfsyky/SelectScreen_Prefix.pch -c /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/GridScreen.m -o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/GridScreen.o0#
+
+CCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/MainMenuVC.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/MainMenuVC.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297709250.873005
+e297709251.060599
+r1
+xCompileC
+xbuild/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/MainMenuVC.o
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/MainMenuVC.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/MainMenuVC.m297709250#297709251#0(0"0(0#0#90"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/MainMenuVC.m8606164928#2185"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-generated-files.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-own-target-headers.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-all-target-headers.hmap -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-project-headers.hmap -F/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/include -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources/armv6 -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources -include /var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-fgvortdetohpcvemzxaxabjfsyky/SelectScreen_Prefix.pch -c /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/MainMenuVC.m -o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/MainMenuVC.o0#
+
+CCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/MainViewController.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/MainViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297709250.493301
+e297709250.872886
+r1
+xCompileC
+xbuild/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/MainViewController.o
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/MainViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/MainViewController.m297709250#297709250#0(0"0(0#0#98"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/MainViewController.m8607507520#2201"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-generated-files.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-own-target-headers.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-all-target-headers.hmap -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-project-headers.hmap -F/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/include -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources/armv6 -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources -include /var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-fgvortdetohpcvemzxaxabjfsyky/SelectScreen_Prefix.pch -c /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/MainViewController.m -o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/MainViewController.o0#
+
+CCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/Player.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Player.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297709251.589382
+e297709251.816786
+r1
+xCompileC
+xbuild/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/Player.o
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Player.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Player.m297709251#297709251#0(0"0(0#0#78"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Player.m8605918112#2169"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-generated-files.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-own-target-headers.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-all-target-headers.hmap -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-project-headers.hmap -F/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/include -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources/armv6 -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources -include /var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-fgvortdetohpcvemzxaxabjfsyky/SelectScreen_Prefix.pch -c /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Player.m -o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/Player.o0#
+
+CCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/SettingsVC.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/SettingsVC.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297709251.060723
+e297709251.300861
+r1
+xCompileC
+xbuild/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/SettingsVC.o
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/SettingsVC.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/SettingsVC.m297709251#297709251#0(0"0(0#0#90"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/SettingsVC.m8606445728#2185"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-generated-files.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-own-target-headers.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-all-target-headers.hmap -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-project-headers.hmap -F/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/include -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources/armv6 -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources -include /var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-fgvortdetohpcvemzxaxabjfsyky/SelectScreen_Prefix.pch -c /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/SettingsVC.m -o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/SettingsVC.o0#
+
+CCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/SettingsView.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/SettingsView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297709251.452520
+e297709251.589268
+r1
+xCompileC
+xbuild/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/SettingsView.o
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/SettingsView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/SettingsView.m297709251#297709251#0(0"0(0#0#84"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/SettingsView.m8606106784#2181"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-generated-files.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-own-target-headers.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-all-target-headers.hmap -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-project-headers.hmap -F/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/include -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources/armv6 -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources -include /var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-fgvortdetohpcvemzxaxabjfsyky/SelectScreen_Prefix.pch -c /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/SettingsView.m -o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/SettingsView.o0#
+
+CCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/SoundPlayer.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/SoundPlayer.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297709250.835031
+e297709251.099421
+r1
+xCompileC
+xbuild/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/SoundPlayer.o
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/SoundPlayer.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/SoundPlayer.m297709250#297709251#0(0"0(0#0#91"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/SoundPlayer.m8598984544#2187"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-generated-files.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-own-target-headers.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-all-target-headers.hmap -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-project-headers.hmap -F/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/include -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources/armv6 -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources -include /var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-fgvortdetohpcvemzxaxabjfsyky/SelectScreen_Prefix.pch -c /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/SoundPlayer.m -o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/SoundPlayer.o0#
+
+CCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/SplashViewController.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/../SplashViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297709250.414222
+e297709250.493179
+r1
+xCompileC
+xbuild/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/SplashViewController.o
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/../SplashViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/../SplashViewController.m297709250#297709250#0(0"0(0#0#103"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/../SplashViewController.m8605767648#2208"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-generated-files.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-own-target-headers.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-all-target-headers.hmap -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-project-headers.hmap -F/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/include -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources/armv6 -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources -include /var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-fgvortdetohpcvemzxaxabjfsyky/SelectScreen_Prefix.pch -c /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/../SplashViewController.m -o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/SplashViewController.o0#
+
+CCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/main.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297709250.028969
+e297709250.414078
+r1
+xCompileC
+xbuild/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/main.o
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/main.m297709250#297709250#0(0"0(0#0#76"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/main.m7665776580704888832#2165"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-generated-files.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-own-target-headers.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-all-target-headers.hmap -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-project-headers.hmap -F/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/include -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources/armv6 -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources -include /var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-fgvortdetohpcvemzxaxabjfsyky/SelectScreen_Prefix.pch -c /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/main.m -o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/AppDelegate.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/AppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297709253.120967
+e297709253.412477
+r1
+xCompileC
+xbuild/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/AppDelegate.o
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/AppDelegate.m297709253#297709253#0(0"0(0#0#91"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/AppDelegate.m8607312288#2187"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-generated-files.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-own-target-headers.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-all-target-headers.hmap -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-project-headers.hmap -F/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/include -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources/armv7 -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources -include /var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-dfnmlwjhmdjlbhfaaladbhwzddcs/SelectScreen_Prefix.pch -c /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/AppDelegate.m -o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/AppDelegate.o0#
+
+CCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/ColorSettingVC.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/ColorSettingVC.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297709253.953402
+e297709254.125891
+r1
+xCompileC
+xbuild/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/ColorSettingVC.o
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/ColorSettingVC.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/ColorSettingVC.m297709253#297709254#0(0"0(0#0#94"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/ColorSettingVC.m8605396352#2193"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-generated-files.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-own-target-headers.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-all-target-headers.hmap -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-project-headers.hmap -F/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/include -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources/armv7 -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources -include /var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-dfnmlwjhmdjlbhfaaladbhwzddcs/SelectScreen_Prefix.pch -c /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/ColorSettingVC.m -o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/ColorSettingVC.o0#
+
+CCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/CustomEditableTableCell.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/CustomEditableTableCell.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297709254.254933
+e297709254.492033
+r1
+xCompileC
+xbuild/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/CustomEditableTableCell.o
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/CustomEditableTableCell.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/CustomEditableTableCell.m297709254#297709254#0(0"0(0#0#103"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/CustomEditableTableCell.m8604447488#2211"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-generated-files.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-own-target-headers.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-all-target-headers.hmap -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-project-headers.hmap -F/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/include -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources/armv7 -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources -include /var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-dfnmlwjhmdjlbhfaaladbhwzddcs/SelectScreen_Prefix.pch -c /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/CustomEditableTableCell.m -o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/CustomEditableTableCell.o0#
+
+CCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/DifficultySettingVC.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/DifficultySettingVC.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297709254.084685
+e297709254.254820
+r1
+xCompileC
+xbuild/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/DifficultySettingVC.o
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/DifficultySettingVC.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/DifficultySettingVC.m297709254#297709254#0(0"0(0#0#99"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/DifficultySettingVC.m8606678848#2203"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-generated-files.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-own-target-headers.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-all-target-headers.hmap -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-project-headers.hmap -F/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/include -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources/armv7 -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources -include /var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-dfnmlwjhmdjlbhfaaladbhwzddcs/SelectScreen_Prefix.pch -c /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/DifficultySettingVC.m -o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/DifficultySettingVC.o0#
+
+CCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/GameVC.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/GameVC.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297709254.126046
+e297709254.280191
+r1
+xCompileC
+xbuild/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/GameVC.o
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/GameVC.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/GameVC.m297709254#297709254#0(0"0(0#0#78"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/GameVC.m8605130432#2169"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-generated-files.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-own-target-headers.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-all-target-headers.hmap -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-project-headers.hmap -F/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/include -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources/armv7 -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources -include /var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-dfnmlwjhmdjlbhfaaladbhwzddcs/SelectScreen_Prefix.pch -c /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/GameVC.m -o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/GameVC.o0#
+
+CCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/GridScreen.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/GridScreen.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297709254.460418
+e297709254.571992
+r1
+xCompileC
+xbuild/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/GridScreen.o
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/GridScreen.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/GridScreen.m297709254#297709254#0(0"0(0#0#82"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/GridScreen.m8607565920#2177"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-generated-files.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-own-target-headers.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-all-target-headers.hmap -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-project-headers.hmap -F/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/include -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources/armv7 -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources -include /var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-dfnmlwjhmdjlbhfaaladbhwzddcs/SelectScreen_Prefix.pch -c /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/GridScreen.m -o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/GridScreen.o0#
+
+CCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/MainMenuVC.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/MainMenuVC.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297709253.718620
+e297709253.870141
+r1
+xCompileC
+xbuild/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/MainMenuVC.o
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/MainMenuVC.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/MainMenuVC.m297709253#297709253#0(0"0(0#0#90"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/MainMenuVC.m8598996544#2185"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-generated-files.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-own-target-headers.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-all-target-headers.hmap -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-project-headers.hmap -F/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/include -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources/armv7 -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources -include /var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-dfnmlwjhmdjlbhfaaladbhwzddcs/SelectScreen_Prefix.pch -c /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/MainMenuVC.m -o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/MainMenuVC.o0#
+
+CCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/MainViewController.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/MainViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297709253.510073
+e297709253.718506
+r1
+xCompileC
+xbuild/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/MainViewController.o
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/MainViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/MainViewController.m297709253#297709253#0(0"0(0#0#98"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/MainViewController.m8605369248#2201"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-generated-files.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-own-target-headers.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-all-target-headers.hmap -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-project-headers.hmap -F/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/include -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources/armv7 -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources -include /var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-dfnmlwjhmdjlbhfaaladbhwzddcs/SelectScreen_Prefix.pch -c /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/MainViewController.m -o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/MainViewController.o0#
+
+CCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/Player.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Player.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297709254.492193
+e297709254.600056
+r1
+xCompileC
+xbuild/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/Player.o
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Player.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Player.m297709254#297709254#0(0"0(0#0#78"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Player.m8605907104#2169"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-generated-files.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-own-target-headers.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-all-target-headers.hmap -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-project-headers.hmap -F/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/include -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources/armv7 -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources -include /var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-dfnmlwjhmdjlbhfaaladbhwzddcs/SelectScreen_Prefix.pch -c /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Player.m -o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/Player.o0#
+
+CCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/SettingsVC.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/SettingsVC.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297709253.870260
+e297709254.084575
+r1
+xCompileC
+xbuild/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/SettingsVC.o
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/SettingsVC.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/SettingsVC.m297709253#297709254#0(0"0(0#0#90"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/SettingsVC.m8606884768#2185"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-generated-files.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-own-target-headers.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-all-target-headers.hmap -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-project-headers.hmap -F/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/include -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources/armv7 -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources -include /var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-dfnmlwjhmdjlbhfaaladbhwzddcs/SelectScreen_Prefix.pch -c /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/SettingsVC.m -o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/SettingsVC.o0#
+
+CCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/SettingsView.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/SettingsView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297709254.280306
+e297709254.460308
+r1
+xCompileC
+xbuild/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/SettingsView.o
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/SettingsView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/SettingsView.m297709254#297709254#0(0"0(0#0#84"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/SettingsView.m8607372704#2181"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-generated-files.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-own-target-headers.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-all-target-headers.hmap -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-project-headers.hmap -F/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/include -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources/armv7 -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources -include /var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-dfnmlwjhmdjlbhfaaladbhwzddcs/SelectScreen_Prefix.pch -c /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/SettingsView.m -o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/SettingsView.o0#
+
+CCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/SoundPlayer.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/SoundPlayer.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297709253.705144
+e297709253.953291
+r1
+xCompileC
+xbuild/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/SoundPlayer.o
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/SoundPlayer.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/SoundPlayer.m297709253#297709253#0(0"0(0#0#91"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/SoundPlayer.m8603829024#2187"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-generated-files.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-own-target-headers.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-all-target-headers.hmap -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-project-headers.hmap -F/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/include -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources/armv7 -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources -include /var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-dfnmlwjhmdjlbhfaaladbhwzddcs/SelectScreen_Prefix.pch -c /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/SoundPlayer.m -o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/SoundPlayer.o0#
+
+CCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/SplashViewController.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/../SplashViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297709253.412594
+e297709253.509956
+r1
+xCompileC
+xbuild/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/SplashViewController.o
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/../SplashViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/../SplashViewController.m297709253#297709253#0(0"0(0#0#103"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/../SplashViewController.m8607344320#2208"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-generated-files.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-own-target-headers.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-all-target-headers.hmap -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-project-headers.hmap -F/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/include -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources/armv7 -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources -include /var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-dfnmlwjhmdjlbhfaaladbhwzddcs/SelectScreen_Prefix.pch -c /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/../SplashViewController.m -o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/SplashViewController.o0#
+
+CCompileC build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/main.o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297709251.668171
+e297709253.120793
+r1
+xCompileC
+xbuild/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/main.o
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/main.m297709251#297709253#0(0"0(0#0#76"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/main.m8606633600#2165"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-generated-files.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-own-target-headers.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-all-target-headers.hmap -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-project-headers.hmap -F/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/include -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources/armv7 -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources -include /var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-dfnmlwjhmdjlbhfaaladbhwzddcs/SelectScreen_Prefix.pch -c /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/main.m -o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/ColorSetting.xib
+s297709246.327579
+e297709247.307162
+r1
+xCompileXIB
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/ColorSetting.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@35"CompileXIB Classes/ColorSetting.xib297709246#297709247#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#94"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/ColorSetting.xib8607570848#652"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/ColorSetting.nib /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/ColorSetting.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCompileXIB /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/CustomEditableTableCell.xib
+s297709249.026780
+e297709249.932510
+r1
+xCompileXIB
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/CustomEditableTableCell.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@46"CompileXIB Classes/CustomEditableTableCell.xib297709249#297709249#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#105"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/CustomEditableTableCell.xib8604739744#674"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/CustomEditableTableCell.nib /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/CustomEditableTableCell.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCompileXIB /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/DifficultySetting.xib
+s297709246.328389
+e297709248.048444
+r1
+xCompileXIB
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/DifficultySetting.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@40"CompileXIB Classes/DifficultySetting.xib297709246#297709248#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#99"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/DifficultySetting.xib8604445920#662"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/DifficultySetting.nib /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/DifficultySetting.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCompileXIB /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/Game.xib
+s297709249.332656
+e297709249.983566
+r1
+xCompileXIB
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/Game.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@27"CompileXIB Classes/Game.xib297709249#297709249#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#86"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/Game.xib8590231264#636"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/Game.nib /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/Game.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCompileXIB /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/HighScores.xib
+s297709247.579201
+e297709249.026609
+r1
+xCompileXIB
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/HighScores.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB HighScores.xib297709247#297709249#0(168"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#84"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/HighScores.xib8606422624#640"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/HighScores.nib /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/HighScores.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCompileXIB /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Instructions.xib
+s297709248.048554
+e297709249.332516
+r1
+xCompileXIB
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Instructions.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@27"CompileXIB Instructions.xib297709248#297709249#0(168"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#86"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Instructions.xib8605937472#644"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/Instructions.nib /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Instructions.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCompileXIB /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/MainMenuTitleView.xib
+s297709244.643854
+e297709245.466238
+r1
+xCompileXIB
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/MainMenuTitleView.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@32"CompileXIB MainMenuTitleView.xib297709244#297709245#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#91"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/MainMenuTitleView.xib8590047840#654"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/MainMenuTitleView.nib /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/MainMenuTitleView.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCompileXIB /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/MainWindow.xib
+s297709239.979788
+e297709244.643744
+r1
+xCompileXIB
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib297709239#297709244#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#84"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/MainWindow.xib8606503328#640"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/MainWindow.nib /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCompileXIB /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Settings.xib
+s297709244.970453
+e297709246.327484
+r1
+xCompileXIB
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Settings.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+o/* com.apple.ibtool.document.warnings */
+o/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Settings.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'Settings View' but 'SettingsView' is not a kind of 'UIView' as specified by the outlet type.
+lSLF07#2@23"CompileXIB Settings.xib297709244#297709246#0(367"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)/* com.apple.ibtool.document.warnings *//Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Settings.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'Settings View' but 'SettingsView' is not a kind of 'UIView' as specified by the outlet type.1(22@145"The 'view' outlet of 'File's Owner' is connected to 'Settings View' but 'SettingsView' is not a kind of 'UIView' as specified by the outlet type.297709246#18446744073709551615#0#0(6@82"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Settings.xib296083042#18446744073709551615#0#18446744073709551615#0#0"0(0#0#82"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Settings.xib8605041024#636"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/Settings.nib /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Settings.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCopyPNGFile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/BlueImage.png Classes/BlueImage.png
+s297709247.308553
+e297709247.403312
+r1
+xCopyPNGFile
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/BlueImage.png
+xClasses/BlueImage.png
+lSLF07#2@85"CopyPNGFile build/Debug-iphoneos/SelectScreen.app/BlueImage.png Classes/BlueImage.png297709247#297709247#0(0"0(0#0#91"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/BlueImage.png8606691392#672"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/BlueImage.png /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/BlueImage.png0#
+
+CCopyPNGFile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/Default.png Default.png
+s297709239.980798
+e297709241.577193
+r1
+xCopyPNGFile
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/Default.png
+xDefault.png
+lSLF07#2@73"CopyPNGFile build/Debug-iphoneos/SelectScreen.app/Default.png Default.png297709239#297709241#0(0"0(0#0#81"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Default.png8606219968#660"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Default.png /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/Default.png0#
+
+CCopyPNGFile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/HighScores.png HighScores.png
+s297709244.848773
+e297709244.888451
+r1
+xCopyPNGFile
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/HighScores.png
+xHighScores.png
+lSLF07#2@79"CopyPNGFile build/Debug-iphoneos/SelectScreen.app/HighScores.png HighScores.png297709244#297709244#0(0"0(0#0#84"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/HighScores.png8598565280#666"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/HighScores.png /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/HighScores.png0#
+
+CCopyPNGFile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/Instructions.png Instructions.png
+s297709244.888556
+e297709244.927647
+r1
+xCopyPNGFile
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/Instructions.png
+xInstructions.png
+lSLF07#2@83"CopyPNGFile build/Debug-iphoneos/SelectScreen.app/Instructions.png Instructions.png297709244#297709244#0(0"0(0#0#86"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Instructions.png8605063840#670"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Instructions.png /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/Instructions.png0#
+
+CCopyPNGFile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/MainMenuTitleView.png MainMenuTitleView.png
+s297709244.786390
+e297709244.848604
+r1
+xCopyPNGFile
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/MainMenuTitleView.png
+xMainMenuTitleView.png
+lSLF07#2@93"CopyPNGFile build/Debug-iphoneos/SelectScreen.app/MainMenuTitleView.png MainMenuTitleView.png297709244#297709244#0(0"0(0#0#91"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/MainMenuTitleView.png8599019232#680"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/MainMenuTitleView.png /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/MainMenuTitleView.png0#
+
+CCopyPNGFile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/RedImage.png Classes/RedImage.png
+s297709247.403422
+e297709247.461999
+r1
+xCopyPNGFile
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/RedImage.png
+xClasses/RedImage.png
+lSLF07#2@83"CopyPNGFile build/Debug-iphoneos/SelectScreen.app/RedImage.png Classes/RedImage.png297709247#297709247#0(0"0(0#0#90"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/RedImage.png8606427840#670"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/RedImage.png /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/RedImage.png0#
+
+CCopyPNGFile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/Splash.png Splash.png
+s297709241.577371
+e297709242.087809
+r1
+xCopyPNGFile
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/Splash.png
+xSplash.png
+lSLF07#2@71"CopyPNGFile build/Debug-iphoneos/SelectScreen.app/Splash.png Splash.png297709241#297709242#0(0"0(0#0#80"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Splash.png8605830112#658"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Splash.png /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/Splash.png0#
+
+CCopyPNGFile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/Splash2.png Splash2.png
+s297709242.087931
+e297709243.307617
+r1
+xCopyPNGFile
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/Splash2.png
+xSplash2.png
+lSLF07#2@73"CopyPNGFile build/Debug-iphoneos/SelectScreen.app/Splash2.png Splash2.png297709242#297709243#0(0"0(0#0#81"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Splash2.png8607035360#660"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Splash2.png /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/Splash2.png0#
+
+CCopyPNGFile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/StartGame.png StartGame.png
+s297709244.927753
+e297709244.970348
+r1
+xCopyPNGFile
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/StartGame.png
+xStartGame.png
+lSLF07#2@77"CopyPNGFile build/Debug-iphoneos/SelectScreen.app/StartGame.png StartGame.png297709244#297709244#0(0"0(0#0#83"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/StartGame.png8604164192#664"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/StartGame.png /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/StartGame.png0#
+
+CCopyPNGFile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/YellowImage.png Classes/YellowImage.png
+s297709247.462126
+e297709247.579096
+r1
+xCopyPNGFile
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/YellowImage.png
+xClasses/YellowImage.png
+lSLF07#2@89"CopyPNGFile build/Debug-iphoneos/SelectScreen.app/YellowImage.png Classes/YellowImage.png297709247#297709247#0(0"0(0#0#93"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/YellowImage.png8606829760#676"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/YellowImage.png /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/YellowImage.png0#
+
+CCopyPlistFile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/SettingsMenu.plist Classes/SettingsMenu.plist
+s297709245.466344
+e297709246.327301
+r1
+xCopyPlistFile
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/SettingsMenu.plist
+xClasses/SettingsMenu.plist
+lSLF07#2@31"Copy Classes/SettingsMenu.plist297709245#297709246#0(0"0(0#0#96"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/SettingsMenu.plist8606700544#454"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Classes/SettingsMenu.plist --outdir /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app0#
+
+CCpResource build/Debug-iphoneos/SelectScreen.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+s297709239.725573
+e297709239.979673
+r1
+xCpResource
+xbuild/Debug-iphoneos/SelectScreen.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist297709239#297709240#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist5994135409057033216#547"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app0#
+
+CCpResource build/Debug-iphoneos/SelectScreen.app/blast.aif blast.aif
+s297709243.307756
+e297709243.454798
+r1
+xCpResource
+xbuild/Debug-iphoneos/SelectScreen.app/blast.aif
+xblast.aif
+lSLF07#2@14"Copy blast.aif297709243#297709243#0(0"0(0#0#79"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/blast.aif8598241888#537"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/blast.aif /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app0#
+
+CCpResource build/Debug-iphoneos/SelectScreen.app/stripedbg.jpg Classes/stripedbg.jpg
+s297709247.307338
+e297709247.332008
+r1
+xCpResource
+xbuild/Debug-iphoneos/SelectScreen.app/stripedbg.jpg
+xClasses/stripedbg.jpg
+lSLF07#2@26"Copy Classes/stripedbg.jpg297709247#297709247#0(0"0(0#0#91"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/stripedbg.jpg8606925120#549"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/stripedbg.jpg /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app0#
+
+CCreateUniversalBinary /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/SelectScreen normal "armv6 armv7"
+s297709255.030989
+e297709255.122209
+r1
+xCreateUniversalBinary
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/SelectScreen
+xnormal
+xarmv6 armv7
+lSLF07#2@93"CreateUniversalBinary build/Debug-iphoneos/SelectScreen.app/SelectScreen normal "armv6 armv7"297709255#297709255#0(0"0(0#0#81"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/armv6 armv78598827296#682"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/SelectScreen /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/SelectScreen -output /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/SelectScreen0#
+
+CGenerateDSYMFile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app.dSYM /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/SelectScreen
+s297709255.122328
+e297709255.389858
+r1
+xGenerateDSYMFile
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app.dSYM
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/SelectScreen
+lSLF07#2@110"GenerateDSYMFile build/Debug-iphoneos/SelectScreen.app.dSYM build/Debug-iphoneos/SelectScreen.app/SelectScreen297709255#297709255#0(0"0(0#0#120"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/SelectScreen8590453184#470"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/SelectScreen -o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app.dSYM0#
+
+CLd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/SelectScreen normal armv6
+s297709251.816892
+e297709253.705011
+r1
+xLd
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/SelectScreen
+xnormal
+xarmv6
+lSLF07#2@167"Link /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/SelectScreen297709251#297709253#0(0"0(0#0#0"8606372992#1092"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -L/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos -F/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos -filelist /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/SelectScreen.LinkFileList -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -framework AudioToolbox -framework AVFoundation -o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv6/SelectScreen0#
+
+CLd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/SelectScreen normal armv7
+s297709254.600161
+e297709255.030822
+r1
+xLd
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/SelectScreen
+xnormal
+xarmv7
+lSLF07#2@167"Link /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/SelectScreen297709254#297709255#0(0"0(0#0#0"8605181504#1092"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -L/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos -F/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos -filelist /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/SelectScreen.LinkFileList -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -framework AudioToolbox -framework AVFoundation -o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/Objects-normal/armv7/SelectScreen0#
+
+CProcessInfoPlistFile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/Info.plist SelectScreen-Info.plist
+s297709239.815839
+e297709239.872358
+r1
+xProcessInfoPlistFile
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/Info.plist
+xSelectScreen-Info.plist
+lSLF07#2@31"Process SelectScreen-Info.plist297709239#297709239#0(0"0(0#0#93"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/SelectScreen-Info.plist8605857952#706"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SelectScreen-Info.plist -genpkginfo /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/ResourceRules.plist -o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/Info.plist0#
+
+CProcessPCH /var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-dfnmlwjhmdjlbhfaaladbhwzddcs/SelectScreen_Prefix.pch.gch SelectScreen_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s297704837.503328
+e297704849.298999
+r1
+xProcessPCH
+x/var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-dfnmlwjhmdjlbhfaaladbhwzddcs/SelectScreen_Prefix.pch.gch
+xSelectScreen_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile SelectScreen_Prefix.pch297704837#297704849#0(0"0(0#0#93"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/SelectScreen_Prefix.pch8619357920#2027"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-generated-files.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-own-target-headers.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-all-target-headers.hmap -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-project-headers.hmap -F/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/include -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources/armv7 -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources -c /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/SelectScreen_Prefix.pch -o /var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-dfnmlwjhmdjlbhfaaladbhwzddcs/SelectScreen_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-fgvortdetohpcvemzxaxabjfsyky/SelectScreen_Prefix.pch.gch SelectScreen_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s297704837.502236
+e297704849.008392
+r1
+xProcessPCH
+x/var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-fgvortdetohpcvemzxaxabjfsyky/SelectScreen_Prefix.pch.gch
+xSelectScreen_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile SelectScreen_Prefix.pch297704837#297704849#0(0"0(0#0#93"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/SelectScreen_Prefix.pch8619472928#2027"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-generated-files.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-own-target-headers.hmap -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-all-target-headers.hmap -iquote /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen-project-headers.hmap -F/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/include -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources/armv6 -I/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/DerivedSources -c /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/SelectScreen_Prefix.pch -o /var/folders/IV/IVxVWIcnF6SL8BIZhUiH-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SelectScreen_Prefix-fgvortdetohpcvemzxaxabjfsyky/SelectScreen_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/colin/Library/MobileDevice/Provisioning Profiles/0E24A994-C325-4EE9-AD39-4727CF099100.mobileprovision" /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/embedded.mobileprovision
+s297709255.389981
+e297709255.468748
+r1
+xProcessProductPackaging
+x/Users/colin/Library/MobileDevice/Provisioning Profiles/0E24A994-C325-4EE9-AD39-4727CF099100.mobileprovision
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/embedded.mobileprovision
+lSLF07#2@197"ProcessProductPackaging "/Users/colin/Library/MobileDevice/Provisioning Profiles/0E24A994-C325-4EE9-AD39-4727CF099100.mobileprovision" build/Debug-iphoneos/SelectScreen.app/embedded.mobileprovision297709255#297709255#0(0"0(0#0#132"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/embedded.mobileprovision8604445088#490"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/colin/Library/MobileDevice/Provisioning Profiles/0E24A994-C325-4EE9-AD39-4727CF099100.mobileprovision" -o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen.xcent
+s297709255.506278
+e297709255.563444
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen.xcent
+lSLF07#2@190"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen.xcent297709255#297709255#0(0"0(0#0#147"/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen.xcent8607515104#509"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/SelectScreen.build/Debug-iphoneos/SelectScreen.build/SelectScreen.xcent0#
+
+CTouch /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app
+s297709255.468834
+e297709255.506161
+r1
+xTouch
+x/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app
+lSLF07#2@113"Touch /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app297709255#297709255#0(0"0(0#0#0"8607437728#331"    cd /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/build/Debug-iphoneos/SelectScreen.app0#
+

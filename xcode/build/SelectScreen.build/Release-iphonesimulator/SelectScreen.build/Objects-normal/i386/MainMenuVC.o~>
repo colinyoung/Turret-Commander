@@ -1,0 +1,5 @@
+/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/MainMenuVC.m: In function '-[MainMenuVC show:]':
+/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/MainMenuVC.m:101: error: 'Instructions' undeclared (first use in this function)
+/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/MainMenuVC.m:101: error: (Each undeclared identifier is reported only once
+/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/MainMenuVC.m:101: error: for each function it appears in.)
+/Users/colin/Dropbox/School/iPhone/students/cyoung/Final/SelectScreen/Classes/MainMenuVC.m:101: error: expected expression before ')' token

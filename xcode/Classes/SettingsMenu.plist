@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Footer</key>
+		<string>Increase according to how cool you are</string>
+		<key>Nib</key>
+		<string>DifficultySetting</string>
+		<key>Value</key>
+		<string>Easy</string>
+		<key>Label</key>
+		<string>Game Difficulty</string>
+		<key>RangeLow</key>
+		<integer>1</integer>
+		<key>RangeHigh</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>Nib</key>
+		<string>NameSetting</string>
+		<key>Value</key>
+		<string>James Bond</string>
+		<key>Label</key>
+		<string>Your Name</string>
+		<key>Footer</key>
+		<string>Used in the High Scores table</string>
+	</dict>
+	<dict>
+		<key>Nib</key>
+		<string>ColorSetting</string>
+		<key>Value</key>
+		<string>Blue</string>
+		<key>Label</key>
+		<string>Turret Color</string>
+		<key>Footer</key>
+		<string>Used to decorate your turret</string>
+	</dict>
+</array>
+</plist>
